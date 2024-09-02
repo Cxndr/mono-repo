@@ -1,0 +1,8 @@
+body {
+    height: 100svh;
+    display: flex;
+    justify-content: center;
+    background-color: tomato;
+    color: white;
+    font-family: monospace;
+}
